@@ -2,6 +2,15 @@
   "name": "ssg-page",
   "version": "0.0.0",
   "private": true,
+  "keywords": [
+    "docusaurus",
+    "typescript",
+    "react",
+    "node",
+    "mdx",
+    "prism",
+    "ssg"	
+  ],
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
